@@ -15,12 +15,12 @@ def get_queens_instance(n, blocked = []):
 def print_sol(msol: cplex.CpoSolveResult, blocked = []):
 	N = len(msol.get_all_var_solutions())
 	for line in range(N):
-		line = msol.get_var_solution(f"lines_{line}").get_value()
-		b = [b[1] for b in blocked if b[0] == line]
-		for j in range(N):
-			if j in b:
+		line_value = msol.get_var_solution(f"lines_{line}").get_value()
+		blocked_columns = [b[1] for b in blocked if b[0] == line]
+		for col in range(N):
+			if col in blocked_columns:
 				print("X ", end = "")
-			elif j == line:
+			elif col == line_value:
 				print("Q ", end = "")
 			else:
 				print("_ ", end = "")
