@@ -1,0 +1,145 @@
+[
+  {
+    "config_index": 18,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 1,
+      "mip.cuts.gomory": 0,
+      "mip.cuts.liftproj": 2,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 1.1605
+  },
+  {
+    "config_index": 27,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 1,
+      "mip.cuts.gomory": 1,
+      "mip.cuts.liftproj": 0,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 0.4651
+  },
+  {
+    "config_index": 45,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 1,
+      "mip.cuts.gomory": 1,
+      "mip.cuts.liftproj": 2,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 1.3348
+  },
+  {
+    "config_index": 54,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 1,
+      "mip.cuts.gomory": 2,
+      "mip.cuts.liftproj": 0,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 0.7400666667
+  },
+  {
+    "config_index": 72,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 1,
+      "mip.cuts.gomory": 2,
+      "mip.cuts.liftproj": 2,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 1.1771333333
+  },
+  {
+    "config_index": 81,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 2,
+      "mip.cuts.gomory": 0,
+      "mip.cuts.liftproj": 0,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 0.4853
+  },
+  {
+    "config_index": 99,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 2,
+      "mip.cuts.gomory": 0,
+      "mip.cuts.liftproj": 2,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 1.1578666667
+  },
+  {
+    "config_index": 108,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 2,
+      "mip.cuts.gomory": 1,
+      "mip.cuts.liftproj": 0,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 0.4708666667
+  },
+  {
+    "config_index": 126,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 2,
+      "mip.cuts.gomory": 1,
+      "mip.cuts.liftproj": 2,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 1.3342
+  },
+  {
+    "config_index": 135,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 2,
+      "mip.cuts.gomory": 2,
+      "mip.cuts.liftproj": 0,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 0.7371000000000001
+  },
+  {
+    "config_index": 153,
+    "config": {
+      "threads": 1,
+      "mip.strategy.search": 1,
+      "lpmethod": 2,
+      "mip.cuts.gomory": 2,
+      "mip.cuts.liftproj": 2,
+      "mip.cuts.mircut": 0,
+      "mip.cuts.zerohalfcut": 0
+    },
+    "time_mean": 1.179
+  }
+]

@@ -1,0 +1,6158 @@
+[
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.038,
+    "time_std":0.0126174482,
+    "time_var":0.0001592,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0344333333,
+    "time_std":0.006216555,
+    "time_var":0.0000386456,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0349333333,
+    "time_std":0.0066679999,
+    "time_var":0.0000444622,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0339,
+    "time_std":0.0058728187,
+    "time_var":0.00003449,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.032
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0343666667,
+    "time_std":0.0063271022,
+    "time_var":0.0000400322,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0348666667,
+    "time_std":0.0065509965,
+    "time_var":0.0000429156,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.032
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333333333,
+    "time_std":0.0053748385,
+    "time_var":0.0000288889,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.036,
+    "time_std":0.0072111026,
+    "time_var":0.000052,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0354,
+    "time_std":0.0068585713,
+    "time_var":0.00004704,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0354,
+    "time_std":0.0070028566,
+    "time_var":0.00004904,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.032
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.037,
+    "time_std":0.0075498344,
+    "time_var":0.000057,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0343666667,
+    "time_std":0.0063271022,
+    "time_var":0.0000400322,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0349,
+    "time_std":0.0066098411,
+    "time_var":0.00004369,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0348666667,
+    "time_std":0.0066268813,
+    "time_var":0.0000439156,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0317333333,
+    "time_std":0.0028627881,
+    "time_var":0.0000081956,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333333333,
+    "time_std":0.0053748385,
+    "time_var":0.0000288889,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0338666667,
+    "time_std":0.0058007662,
+    "time_var":0.0000336489,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0312666667,
+    "time_std":0.0004422166,
+    "time_var":0.0000001956,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6481361389,
+      "dettime":46.6481361389,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588333333,
+    "time_std":0.0065425955,
+    "time_var":0.0000428056,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588666667,
+    "time_std":0.0065611652,
+    "time_var":0.0000430489,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0578333333,
+    "time_std":0.0071790591,
+    "time_var":0.0000515389,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6481361389,
+      "dettime":46.6481361389,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588666667,
+    "time_std":0.0065611652,
+    "time_var":0.0000430489,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588666667,
+    "time_std":0.0066419542,
+    "time_var":0.0000441156,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0567666667,
+    "time_std":0.0075836813,
+    "time_var":0.0000575122,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6481361389,
+      "dettime":46.6481361389,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0573333333,
+    "time_std":0.0073181661,
+    "time_var":0.0000535556,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0577666667,
+    "time_std":0.0071352801,
+    "time_var":0.0000509122,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0598666667,
+    "time_std":0.0058636356,
+    "time_var":0.0000343822,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474333333,
+    "time_std":0.0029061238,
+    "time_var":0.0000084456,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0479,
+    "time_std":0.0039187583,
+    "time_var":0.0000153567,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0469,
+    "time_std":0.0003,
+    "time_var":0.00000009,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0473666667,
+    "time_std":0.0049563652,
+    "time_var":0.0000245656,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0479666667,
+    "time_std":0.0038942978,
+    "time_var":0.0000151656,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0478666667,
+    "time_std":0.00379239,
+    "time_var":0.0000143822,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0484,
+    "time_std":0.0046590414,
+    "time_var":0.0000217067,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474333333,
+    "time_std":0.0029061238,
+    "time_var":0.0000084456,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0489666667,
+    "time_std":0.0077652359,
+    "time_var":0.0000602989,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474666667,
+    "time_std":0.0028952068,
+    "time_var":0.0000083822,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0484666667,
+    "time_std":0.0047450559,
+    "time_var":0.0000225156,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0468333333,
+    "time_std":0.000372678,
+    "time_var":0.0000001389,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.048,
+    "time_std":0.0040166321,
+    "time_var":0.0000161333,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0468,
+    "time_std":0.0004,
+    "time_var":0.00000016,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0464,
+    "time_std":0.00287054,
+    "time_var":0.00000824,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0468333333,
+    "time_std":0.000372678,
+    "time_var":0.0000001389,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474333333,
+    "time_std":0.0029061238,
+    "time_var":0.0000084456,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0473333333,
+    "time_std":0.0027487371,
+    "time_var":0.0000075556,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2722520828,
+      "dettime":50.2722520828,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0637,
+    "time_std":0.0038483763,
+    "time_var":0.00001481,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0668333333,
+    "time_std":0.0067433094,
+    "time_var":0.0000454722,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0640666667,
+    "time_std":0.004668571,
+    "time_var":0.0000217956,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2722520828,
+      "dettime":50.2722520828,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0632666667,
+    "time_std":0.0039575526,
+    "time_var":0.0000156622,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0632,
+    "time_std":0.0027856777,
+    "time_var":0.00000776,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0636,
+    "time_std":0.0067852782,
+    "time_var":0.00004604,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2722520828,
+      "dettime":50.2722520828,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0630333333,
+    "time_std":0.0028223316,
+    "time_var":0.0000079656,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0632666667,
+    "time_std":0.0027680719,
+    "time_var":0.0000076622,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0636666667,
+    "time_std":0.0038586123,
+    "time_var":0.0000148889,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0520333333,
+    "time_std":0.0074138759,
+    "time_var":0.0000549656,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0536666667,
+    "time_std":0.0077688838,
+    "time_var":0.0000603556,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0525666667,
+    "time_std":0.0075351768,
+    "time_var":0.0000567789,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0526333333,
+    "time_std":0.0075519681,
+    "time_var":0.0000570322,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0531333333,
+    "time_std":0.0075882951,
+    "time_var":0.0000575822,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0531,
+    "time_std":0.0076173049,
+    "time_var":0.0000580233,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0536333333,
+    "time_std":0.0077995014,
+    "time_var":0.0000608322,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0525666667,
+    "time_std":0.0076056266,
+    "time_var":0.0000578456,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0530333333,
+    "time_std":0.0076745612,
+    "time_var":0.0000588989,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0526333333,
+    "time_std":0.0075519681,
+    "time_var":0.0000570322,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0531333333,
+    "time_std":0.0076582563,
+    "time_var":0.0000586489,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0520666667,
+    "time_std":0.0073888805,
+    "time_var":0.0000545956,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0520666667,
+    "time_std":0.0073888805,
+    "time_var":0.0000545956,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0536333333,
+    "time_std":0.0077308186,
+    "time_var":0.0000597656,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0547,
+    "time_std":0.0078449559,
+    "time_var":0.0000615433,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0505666667,
+    "time_std":0.0065507421,
+    "time_var":0.0000429122,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0531,
+    "time_std":0.0077560729,
+    "time_var":0.0000601567,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0526,
+    "time_std":0.0075082177,
+    "time_var":0.0000563733,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0671666667,
+    "time_std":0.0071043805,
+    "time_var":0.0000504722,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0677333333,
+    "time_std":0.0074158988,
+    "time_var":0.0000549956,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0682666667,
+    "time_std":0.007487471,
+    "time_var":0.0000560622,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0677666667,
+    "time_std":0.0073922632,
+    "time_var":0.0000546456,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0687,
+    "time_std":0.0076032888,
+    "time_var":0.00005781,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0692,
+    "time_std":0.0077734591,
+    "time_var":0.0000604267,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0692,
+    "time_std":0.0077045441,
+    "time_var":0.00005936,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0671666667,
+    "time_std":0.0071043805,
+    "time_var":0.0000504722,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":1,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0698333333,
+    "time_std":0.0077161447,
+    "time_var":0.0000595389,
+    "config_str":"{\"lpmethod\": 1, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0349333333,
+    "time_std":0.0066679999,
+    "time_var":0.0000444622,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0344,
+    "time_std":0.0063118935,
+    "time_var":0.00003984,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0354,
+    "time_std":0.0069310894,
+    "time_var":0.00004804,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0322666667,
+    "time_std":0.0039575526,
+    "time_var":0.0000156622,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0348666667,
+    "time_std":0.0065509965,
+    "time_var":0.0000429156,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0322666667,
+    "time_std":0.0039575526,
+    "time_var":0.0000156622,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0338666667,
+    "time_std":0.0058863307,
+    "time_var":0.0000346489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333333333,
+    "time_std":0.0051854497,
+    "time_var":0.0000268889,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333666667,
+    "time_std":0.005363353,
+    "time_var":0.0000287656,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0338666667,
+    "time_std":0.0058863307,
+    "time_var":0.0000346489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0374666667,
+    "time_std":0.0076582563,
+    "time_var":0.0000586489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.032
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0354,
+    "time_std":0.0068585713,
+    "time_var":0.00004704,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0338333333,
+    "time_std":0.0057276134,
+    "time_var":0.0000328056,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0323333333,
+    "time_std":0.003681787,
+    "time_var":0.0000135556,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333333333,
+    "time_std":0.0053748385,
+    "time_var":0.0000288889,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4848213196,
+      "dettime":28.4848213196,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.032
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333,
+    "time_std":0.0052924474,
+    "time_var":0.00002801,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0338333333,
+    "time_std":0.0057276134,
+    "time_var":0.0000328056,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":28.4862766266,
+      "dettime":28.4862766266,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":374,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.031
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0333333333,
+    "time_std":0.0053748385,
+    "time_var":0.0000288889,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6481361389,
+      "dettime":46.6481361389,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588333333,
+    "time_std":0.0065425955,
+    "time_var":0.0000428056,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0572666667,
+    "time_std":0.0073436291,
+    "time_var":0.0000539289,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588,
+    "time_std":0.0065238026,
+    "time_var":0.00004256,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6481361389,
+      "dettime":46.6481361389,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588666667,
+    "time_std":0.0067217723,
+    "time_var":0.0000451822,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0578,
+    "time_std":0.007231413,
+    "time_var":0.0000522933,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0583,
+    "time_std":0.0068271517,
+    "time_var":0.00004661,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6481361389,
+      "dettime":46.6481361389,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0588333333,
+    "time_std":0.0067036474,
+    "time_var":0.0000449389,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0593666667,
+    "time_std":0.0061993727,
+    "time_var":0.0000384322,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":46.6524505615,
+      "dettime":46.6524505615,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":373,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":0,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0578666667,
+    "time_std":0.0072006173,
+    "time_var":0.0000518489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 0, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474,
+    "time_std":0.002916619,
+    "time_var":0.0000085067,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0469333333,
+    "time_std":0.0002494438,
+    "time_var":0.0000000622,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474,
+    "time_std":0.002916619,
+    "time_var":0.0000085067,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474666667,
+    "time_std":0.0028952068,
+    "time_var":0.0000083822,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0479666667,
+    "time_std":0.0038942978,
+    "time_var":0.0000151656,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0468,
+    "time_std":0.0004,
+    "time_var":0.00000016,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0469333333,
+    "time_std":0.0002494438,
+    "time_var":0.0000000622,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0473666667,
+    "time_std":0.0049563652,
+    "time_var":0.0000245656,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474,
+    "time_std":0.0027276363,
+    "time_var":0.00000744,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0489333333,
+    "time_std":0.0053349997,
+    "time_var":0.0000284622,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0490333333,
+    "time_std":0.0053881557,
+    "time_var":0.0000290322,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0468666667,
+    "time_std":0.0003399346,
+    "time_var":0.0000001156,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0484666667,
+    "time_std":0.0046312945,
+    "time_var":0.0000214489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0478,
+    "time_std":0.0039530579,
+    "time_var":0.0000156267,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0484333333,
+    "time_std":0.0046453083,
+    "time_var":0.0000215789,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2876625061,
+      "dettime":39.2876625061,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0469,
+    "time_std":0.0003,
+    "time_var":0.00000009,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474,
+    "time_std":0.002916619,
+    "time_var":0.0000085067,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":39.2992353439,
+      "dettime":39.2992353439,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":391,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0474666667,
+    "time_std":0.0028952068,
+    "time_var":0.0000083822,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2722520828,
+      "dettime":50.2722520828,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0624666667,
+    "time_std":0.0004988877,
+    "time_var":0.0000002489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0624333333,
+    "time_std":0.0004955356,
+    "time_var":0.0000002456,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0653,
+    "time_std":0.0071093835,
+    "time_var":0.0000505433,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2722520828,
+      "dettime":50.2722520828,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0628666667,
+    "time_std":0.0028487814,
+    "time_var":0.0000081156,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0634666667,
+    "time_std":0.0039135094,
+    "time_var":0.0000153156,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0628,
+    "time_std":0.0028565714,
+    "time_var":0.00000816,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2722520828,
+      "dettime":50.2722520828,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0628333333,
+    "time_std":0.0030340658,
+    "time_var":0.0000092056,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0639666667,
+    "time_std":0.0048130609,
+    "time_var":0.0000231656,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":50.2828722,
+      "dettime":50.2828722,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":353,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":1,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0638,
+    "time_std":0.0038157568,
+    "time_var":0.00001456,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 1, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0515666667,
+    "time_std":0.0072050137,
+    "time_var":0.0000519122,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0525666667,
+    "time_std":0.0075351768,
+    "time_var":0.0000567789,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.046
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0515333333,
+    "time_std":0.0072283393,
+    "time_var":0.0000522489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0541333333,
+    "time_std":0.0078389342,
+    "time_var":0.0000614489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0521,
+    "time_std":0.0073636495,
+    "time_var":0.0000542233,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0521666667,
+    "time_std":0.0073124703,
+    "time_var":0.0000534722,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0541333333,
+    "time_std":0.0078389342,
+    "time_var":0.0000614489,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0520666667,
+    "time_std":0.0073888805,
+    "time_var":0.0000545956,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":0,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0525666667,
+    "time_std":0.007464062,
+    "time_var":0.0000557122,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 0, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0537,
+    "time_std":0.0076687678,
+    "time_var":0.00005881,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0515333333,
+    "time_std":0.0071541752,
+    "time_var":0.0000511822,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0510333333,
+    "time_std":0.006925717,
+    "time_var":0.0000479656,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0536333333,
+    "time_std":0.0077995014,
+    "time_var":0.0000608322,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0525666667,
+    "time_std":0.0075351768,
+    "time_var":0.0000567789,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0541,
+    "time_std":0.0078712557,
+    "time_var":0.0000619567,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0520333333,
+    "time_std":0.0074854674,
+    "time_var":0.0000560322,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0521,
+    "time_std":0.0073636495,
+    "time_var":0.0000542233,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":44.4368247986,
+      "dettime":44.4368247986,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":393,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.047
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":1,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0520333333,
+    "time_std":0.0073415863,
+    "time_var":0.0000538989,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 1, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0694,
+    "time_std":0.0077356318,
+    "time_var":0.00005984,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0667,
+    "time_std":0.0069816426,
+    "time_var":0.0000487433,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":0,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0667,
+    "time_std":0.0069816426,
+    "time_var":0.0000487433,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 0, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0687666667,
+    "time_std":0.0076187634,
+    "time_var":0.0000580456,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.062
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0703333333,
+    "time_std":0.0104955017,
+    "time_var":0.0001101556,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.078
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":1,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0662333333,
+    "time_std":0.00666675,
+    "time_var":0.0000444456,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 1, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":0
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0687666667,
+    "time_std":0.0076187634,
+    "time_var":0.0000580456,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 0, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":1
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0686333333,
+    "time_std":0.0077952265,
+    "time_var":0.0000607656,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 1, \"mip.strategy.search\": 1, \"threads\": 1}"
+  },
+  {
+    "solve_details":{
+      "NOT_A_NUM":null,
+      "best_bound":42.0,
+      "columns":164,
+      "deterministic_time":56.2497196198,
+      "dettime":56.2497196198,
+      "gap":0.0,
+      "mip_relative_gap":0.0,
+      "nb_iterations":401,
+      "nb_linear_nonzeros":682,
+      "nb_nodes_processed":0,
+      "problem_type":"MILP",
+      "quality_metrics":{
+
+      },
+      "status":"integer optimal solution",
+      "status_code":101,
+      "time":0.063
+    },
+    "config":{
+      "threads":1,
+      "mip.strategy.search":1,
+      "lpmethod":2,
+      "mip.cuts.gomory":2,
+      "mip.cuts.liftproj":2,
+      "mip.cuts.mircut":2,
+      "mip.cuts.zerohalfcut":2
+    },
+    "objective":42,
+    "solve_status":"integer optimal solution",
+    "gap":0,
+    "nodes":0,
+    "time_mean":0.0678,
+    "time_std":0.0074404301,
+    "time_var":0.00005536,
+    "config_str":"{\"lpmethod\": 2, \"mip.cuts.gomory\": 2, \"mip.cuts.liftproj\": 2, \"mip.cuts.mircut\": 2, \"mip.cuts.zerohalfcut\": 2, \"mip.strategy.search\": 1, \"threads\": 1}"
+  }
+]
