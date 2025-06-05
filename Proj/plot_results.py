@@ -5,7 +5,7 @@ import os
 import json
 
 # List of test folders
-folders = ['20', '50', '100', '150', '200', '300']
+folders = ['20', '50', '100', '150', '200', '250', '300']
 
 # Initialize empty DataFrames to store results
 all_results = []
@@ -21,28 +21,36 @@ for folder in folders:
 combined_df = pd.concat(all_results, ignore_index=True)
 
 # Create figure with three subplots for the first two plots
-fig1 = plt.figure(figsize=(15, 10))
-gs = fig1.add_gridspec(2, 1, height_ratios=[1, 1])
-ax1 = fig1.add_subplot(gs[0])
-ax2 = fig1.add_subplot(gs[1])
+plt.figure(figsize=(15, 10))
+plt.grid(True)
+# gs = fig1.add_gridspec(2, 1, height_ratios=[1, 1])
+# ax1 = fig1.add_subplot(gs[0])
+# ax2 = fig1.add_subplot(gs[1])
 
 # Boxplot and scatter for mean time
-sns.boxplot(data=combined_df, x='folder', y='time_mean', ax=ax1, color='lightblue', width=0.5)
-sns.stripplot(data=combined_df, x='folder', y='time_mean', ax=ax1, color='darkblue', size=4, alpha=0.5)
-ax1.set_title('Mean Time Distribution by Test Folder')
-ax1.set_xlabel('Test Folder')
-ax1.set_ylabel('Mean Time (seconds)')
-
+sns.boxplot(data=combined_df, x='folder', y='time_mean', color='lightblue', width=0.5)
+sns.stripplot(data=combined_df, x='folder', y='time_mean', color='darkblue', size=4, alpha=0.5)
+plt.title('Mean Time Distribution by Test Instance')
+plt.xlabel('Test Instance')
+plt.ylabel('Mean Time (seconds)')
+# plt.yscale('log')
+# Adjust layout and save first figure
+plt.tight_layout()
+plt.savefig('configuration_comparison_boxplots_time_nolog.png', dpi=300, bbox_inches='tight')
+plt.close()
 # Boxplot and scatter for nodes processed
-sns.boxplot(data=combined_df, x='folder', y='nodes', ax=ax2, color='lightgreen', width=0.5)
-sns.stripplot(data=combined_df, x='folder', y='nodes', ax=ax2, color='darkgreen', size=4, alpha=0.5)
-ax2.set_title('Nodes Processed Distribution by Test Folder')
-ax2.set_xlabel('Test Folder')
-ax2.set_ylabel('Number of Nodes Processed')
+plt.figure(figsize=(15, 10))
+plt.grid(True)
+sns.boxplot(data=combined_df, x='folder', y='nodes', color='lightgreen', width=0.5)
+sns.stripplot(data=combined_df, x='folder', y='nodes', color='darkgreen', size=4, alpha=0.5)
+plt.title('Nodes Processed Distribution by Test Instance')
+plt.xlabel('Test Instance')
+plt.ylabel('Number of Nodes Processed')
+# plt.yscale('log')
 
 # Adjust layout and save first figure
 plt.tight_layout()
-plt.savefig('configuration_comparison_boxplots.png', dpi=300, bbox_inches='tight')
+plt.savefig('configuration_comparison_boxplots_nodes.png', dpi=300, bbox_inches='tight')
 plt.close()
 
 # Create separate line plots for each folder

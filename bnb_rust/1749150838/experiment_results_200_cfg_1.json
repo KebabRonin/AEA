@@ -1,0 +1,389 @@
+[
+  {
+    "configuration": {
+      "enable_local_search": true,
+      "enable_max_degree_bound": true,
+      "enable_sum_degree_bound": true,
+      "enable_efficiency_bound": true,
+      "enable_packing_bound": true,
+      "enable_sum_over_packing_bound": true,
+      "packing_from_scratch_limit": 3,
+      "greedy_mode": "AlwaysBeforeExpensiveReductions",
+      "time_limit": 600
+    },
+    "runs": [
+      {
+        "run_number": 0,
+        "execution_time": 602.7819554805756,
+        "solution": [
+          8,
+          101,
+          0,
+          140,
+          147,
+          206,
+          187,
+          1,
+          4,
+          181,
+          77,
+          54,
+          169,
+          10,
+          47,
+          27,
+          28,
+          93,
+          133,
+          154,
+          71,
+          170,
+          198,
+          2,
+          125,
+          175,
+          103,
+          96,
+          191,
+          202,
+          195,
+          12,
+          69,
+          17,
+          164,
+          131,
+          128,
+          33,
+          38,
+          190,
+          35,
+          212,
+          37,
+          214,
+          211,
+          135,
+          120,
+          145,
+          51,
+          210,
+          45,
+          58,
+          110,
+          117,
+          32,
+          115,
+          61
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_200.hgr",
+          "opt": 57,
+          "branching_steps": 30354,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 66,
+              "branching_steps": 0,
+              "runtime": 0.0032873
+            },
+            {
+              "new_bound": 65,
+              "branching_steps": 0,
+              "runtime": 0.0647918
+            },
+            {
+              "new_bound": 64,
+              "branching_steps": 2,
+              "runtime": 0.1271821
+            },
+            {
+              "new_bound": 63,
+              "branching_steps": 3,
+              "runtime": 0.1786881
+            },
+            {
+              "new_bound": 62,
+              "branching_steps": 4,
+              "runtime": 0.196855
+            },
+            {
+              "new_bound": 61,
+              "branching_steps": 4,
+              "runtime": 0.232477
+            },
+            {
+              "new_bound": 60,
+              "branching_steps": 20,
+              "runtime": 0.5270156
+            },
+            {
+              "new_bound": 59,
+              "branching_steps": 20,
+              "runtime": 0.5332661
+            },
+            {
+              "new_bound": 58,
+              "branching_steps": 23,
+              "runtime": 0.5712282
+            },
+            {
+              "new_bound": 57,
+              "branching_steps": 6814,
+              "runtime": 107.687617
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 31,
+            "sum_degree": 43,
+            "efficiency": 46,
+            "packing": 47,
+            "sum_over_packing": 47,
+            "greedy_upper": 66
+          },
+          "runtimes": {
+            "total": 601.0269742,
+            "greedy": 24.9139589,
+            "max_degree_bound": 1.014192,
+            "sum_degree_bound": 4.2614384,
+            "efficiency_bound": 5.9334677,
+            "packing_bound": 105.3500523,
+            "sum_over_packing_bound": 8.3562061,
+            "forced_vertex": 1.6135954,
+            "costly_discard_packing_update": 13.0451467,
+            "costly_discard_packing_from_scratch": 204.0970715,
+            "vertex_domination": 211.1691571,
+            "edge_domination": 18.4656545,
+            "applying_reductions": 0.690341
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 36,
+            "sum_degree_bound_breaks": 83,
+            "efficiency_degree_bound_breaks": 6572,
+            "packing_bound_breaks": 21094,
+            "sum_over_packing_bound_breaks": 2559,
+            "greedy_runs": 118651,
+            "forced_vertex_runs": 184566,
+            "forced_vertices_found": 40080,
+            "costly_discard_efficiency_runs": 154376,
+            "costly_discard_efficiency_vertices_found": 2731,
+            "costly_discard_packing_update_runs": 153276,
+            "costly_discard_packing_update_vertices_found": 241105,
+            "costly_discard_packing_from_scratch_runs": 118651,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              3609,
+              1606,
+              1234,
+              112202
+            ],
+            "vertex_dominations_runs": 112202,
+            "vertex_dominations_vertices_found": 170029,
+            "edge_dominations_runs": 57404,
+            "edge_dominations_edges_found": 40889
+          }
+        }
+      }
+    ]
+  },
+  {
+    "configuration": {
+      "enable_local_search": false,
+      "enable_max_degree_bound": true,
+      "enable_sum_degree_bound": false,
+      "enable_efficiency_bound": true,
+      "enable_packing_bound": true,
+      "enable_sum_over_packing_bound": true,
+      "packing_from_scratch_limit": 3,
+      "greedy_mode": "Once",
+      "time_limit": 600
+    },
+    "runs": [
+      {
+        "run_number": 0,
+        "execution_time": 601.2817671298981,
+        "solution": [
+          8,
+          101,
+          0,
+          140,
+          147,
+          206,
+          187,
+          1,
+          4,
+          181,
+          77,
+          58,
+          48,
+          135,
+          65,
+          123,
+          120,
+          37,
+          160,
+          49,
+          154,
+          34,
+          44,
+          161,
+          38,
+          33,
+          74,
+          131,
+          128,
+          190,
+          175,
+          212,
+          12,
+          209,
+          214,
+          211,
+          27,
+          20,
+          93,
+          17,
+          32,
+          96,
+          103,
+          117,
+          148,
+          210,
+          54,
+          66,
+          195,
+          171,
+          202,
+          191,
+          164,
+          64,
+          110,
+          115,
+          61
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_200.hgr",
+          "opt": 57,
+          "branching_steps": 61046,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 66,
+              "branching_steps": 0,
+              "runtime": 0.0006096
+            },
+            {
+              "new_bound": 65,
+              "branching_steps": 1,
+              "runtime": 0.0527166
+            },
+            {
+              "new_bound": 64,
+              "branching_steps": 2,
+              "runtime": 0.0662053
+            },
+            {
+              "new_bound": 62,
+              "branching_steps": 4,
+              "runtime": 0.0978325
+            },
+            {
+              "new_bound": 61,
+              "branching_steps": 5,
+              "runtime": 0.1211365
+            },
+            {
+              "new_bound": 60,
+              "branching_steps": 16,
+              "runtime": 0.2682117
+            },
+            {
+              "new_bound": 59,
+              "branching_steps": 19,
+              "runtime": 0.2828812
+            },
+            {
+              "new_bound": 58,
+              "branching_steps": 30,
+              "runtime": 0.3969283
+            },
+            {
+              "new_bound": 57,
+              "branching_steps": 45015,
+              "runtime": 419.6514975
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 31,
+            "sum_degree": 43,
+            "efficiency": 46,
+            "packing": 45,
+            "sum_over_packing": 47,
+            "greedy_upper": 66
+          },
+          "runtimes": {
+            "total": 601.0047359,
+            "greedy": 21.1398912,
+            "max_degree_bound": 1.9600446,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 11.272785,
+            "packing_bound": 33.6745495,
+            "sum_over_packing_bound": 17.3663123,
+            "forced_vertex": 3.2659228000000002,
+            "costly_discard_packing_update": 28.1888098,
+            "costly_discard_packing_from_scratch": 100.3181796,
+            "vertex_domination": 345.6006101,
+            "edge_domination": 32.7378039,
+            "applying_reductions": 1.4506491000000001
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 479,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 25682,
+            "packing_bound_breaks": 25703,
+            "sum_over_packing_bound_breaks": 9171,
+            "greedy_runs": 122083,
+            "forced_vertex_runs": 428313,
+            "forced_vertices_found": 111638,
+            "costly_discard_efficiency_runs": 346761,
+            "costly_discard_efficiency_vertices_found": 29302,
+            "costly_discard_packing_update_runs": 338074,
+            "costly_discard_packing_update_vertices_found": 471788,
+            "costly_discard_packing_from_scratch_runs": 274455,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              9546,
+              4128,
+              3252,
+              257529
+            ],
+            "vertex_dominations_runs": 257529,
+            "vertex_dominations_vertices_found": 397228,
+            "edge_dominations_runs": 123330,
+            "edge_dominations_edges_found": 91131
+          }
+        }
+      }
+    ]
+  }
+]

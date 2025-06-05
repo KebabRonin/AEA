@@ -6,7 +6,7 @@ import os
 import json
 
 # List of test folders
-folders = ['20', '50', '100', '150', '200', '300']
+folders = ['20', '50', '100', '150', '200', '250', '300']
 
 # Initialize empty DataFrames to store results
 all_results = []

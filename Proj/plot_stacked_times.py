@@ -6,7 +6,7 @@ import json
 import numpy as np
 
 # List of test folders
-folders = ['20', '50', '100', '150', '200', '300']
+folders = ['20', '50', '100', '150', '200', '250', '300']
 
 # Create figure
 plt.figure(figsize=(15, 8))

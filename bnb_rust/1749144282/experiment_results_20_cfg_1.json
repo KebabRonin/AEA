@@ -1,0 +1,5612 @@
+[
+  {
+    "configuration": {
+      "enable_local_search": true,
+      "enable_max_degree_bound": true,
+      "enable_sum_degree_bound": true,
+      "enable_efficiency_bound": true,
+      "enable_packing_bound": true,
+      "enable_sum_over_packing_bound": true,
+      "packing_from_scratch_limit": 3,
+      "greedy_mode": "AlwaysBeforeExpensiveReductions",
+      "time_limit": 600
+    },
+    "runs": [
+      {
+        "run_number": 0,
+        "execution_time": 0.9942219257354736,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0003585
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0086268
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0088034,
+            "greedy": 0.0011035,
+            "max_degree_bound": 3.17e-05,
+            "sum_degree_bound": 0.0001131,
+            "efficiency_bound": 0.0001496,
+            "packing_bound": 0.0013636,
+            "sum_over_packing_bound": 0.0002172,
+            "forced_vertex": 6.63e-05,
+            "costly_discard_packing_update": 0.0002369,
+            "costly_discard_packing_from_scratch": 0.0031725,
+            "vertex_domination": 0.0014935,
+            "edge_domination": 0.0002049,
+            "applying_reductions": 5.92e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 1,
+        "execution_time": 0.2460918426513672,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002291
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0060127
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0061313,
+            "greedy": 0.0008245,
+            "max_degree_bound": 2.17e-05,
+            "sum_degree_bound": 7.82e-05,
+            "efficiency_bound": 0.0001019,
+            "packing_bound": 0.0009371,
+            "sum_over_packing_bound": 0.000146,
+            "forced_vertex": 4.64e-05,
+            "costly_discard_packing_update": 0.0001735,
+            "costly_discard_packing_from_scratch": 0.0021562,
+            "vertex_domination": 0.0010554,
+            "edge_domination": 0.0001224,
+            "applying_reductions": 3.27e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 2,
+        "execution_time": 0.20559358596801758,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002435
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0061169
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062529,
+            "greedy": 0.0008056,
+            "max_degree_bound": 2.3e-05,
+            "sum_degree_bound": 7.92e-05,
+            "efficiency_bound": 0.0001127,
+            "packing_bound": 0.000975,
+            "sum_over_packing_bound": 0.0001477,
+            "forced_vertex": 4.68e-05,
+            "costly_discard_packing_update": 0.0001656,
+            "costly_discard_packing_from_scratch": 0.0021883,
+            "vertex_domination": 0.0010738,
+            "edge_domination": 0.0001297,
+            "applying_reductions": 3.4e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 3,
+        "execution_time": 0.20095276832580566,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002286
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0058609
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0059871,
+            "greedy": 0.0006871,
+            "max_degree_bound": 2.12e-05,
+            "sum_degree_bound": 7.72e-05,
+            "efficiency_bound": 0.0001021,
+            "packing_bound": 0.0009498,
+            "sum_over_packing_bound": 0.0001464,
+            "forced_vertex": 4.5e-05,
+            "costly_discard_packing_update": 0.0001605,
+            "costly_discard_packing_from_scratch": 0.0021994,
+            "vertex_domination": 0.0010574,
+            "edge_domination": 0.0001404,
+            "applying_reductions": 3.3e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 4,
+        "execution_time": 0.20358562469482422,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.000237
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0060979
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062375,
+            "greedy": 0.0008169,
+            "max_degree_bound": 2.16e-05,
+            "sum_degree_bound": 7.79e-05,
+            "efficiency_bound": 0.0001049,
+            "packing_bound": 0.0009622,
+            "sum_over_packing_bound": 0.0001547,
+            "forced_vertex": 4.53e-05,
+            "costly_discard_packing_update": 0.0001633,
+            "costly_discard_packing_from_scratch": 0.0021683,
+            "vertex_domination": 0.0010619,
+            "edge_domination": 0.0001397,
+            "applying_reductions": 3.33e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 5,
+        "execution_time": 0.2028794288635254,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002446
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0060753
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062183,
+            "greedy": 0.0008093,
+            "max_degree_bound": 2.2e-05,
+            "sum_degree_bound": 7.9e-05,
+            "efficiency_bound": 0.0001235,
+            "packing_bound": 0.0009606,
+            "sum_over_packing_bound": 0.0001465,
+            "forced_vertex": 4.63e-05,
+            "costly_discard_packing_update": 0.0001649,
+            "costly_discard_packing_from_scratch": 0.0021938,
+            "vertex_domination": 0.0010508,
+            "edge_domination": 0.0001396,
+            "applying_reductions": 3.35e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 6,
+        "execution_time": 0.20775198936462402,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002476
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0062351
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0063608,
+            "greedy": 0.000794,
+            "max_degree_bound": 2.19e-05,
+            "sum_degree_bound": 8.72e-05,
+            "efficiency_bound": 0.0001031,
+            "packing_bound": 0.0009851,
+            "sum_over_packing_bound": 0.0001789,
+            "forced_vertex": 4.85e-05,
+            "costly_discard_packing_update": 0.0001651,
+            "costly_discard_packing_from_scratch": 0.0022504,
+            "vertex_domination": 0.0010737,
+            "edge_domination": 0.000132,
+            "applying_reductions": 3.6e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 7,
+        "execution_time": 0.20443964004516602,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.000235
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0063315
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0064547,
+            "greedy": 0.0008938,
+            "max_degree_bound": 2.32e-05,
+            "sum_degree_bound": 9.05e-05,
+            "efficiency_bound": 0.0001129,
+            "packing_bound": 0.0010124,
+            "sum_over_packing_bound": 0.0001881,
+            "forced_vertex": 4.95e-05,
+            "costly_discard_packing_update": 0.0001754,
+            "costly_discard_packing_from_scratch": 0.0022074,
+            "vertex_domination": 0.0010803,
+            "edge_domination": 0.0001261,
+            "applying_reductions": 3.53e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 8,
+        "execution_time": 0.20076990127563477,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.000269
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0061104
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062378,
+            "greedy": 0.0007863,
+            "max_degree_bound": 2.17e-05,
+            "sum_degree_bound": 8.23e-05,
+            "efficiency_bound": 0.0001026,
+            "packing_bound": 0.0009967,
+            "sum_over_packing_bound": 0.0001498,
+            "forced_vertex": 5.01e-05,
+            "costly_discard_packing_update": 0.0001635,
+            "costly_discard_packing_from_scratch": 0.0021661,
+            "vertex_domination": 0.0010682,
+            "edge_domination": 0.0001401,
+            "applying_reductions": 3.34e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 9,
+        "execution_time": 0.2021334171295166,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.000233
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0064901
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0066337,
+            "greedy": 0.0006888,
+            "max_degree_bound": 2.48e-05,
+            "sum_degree_bound": 9.17e-05,
+            "efficiency_bound": 0.000106,
+            "packing_bound": 0.0011086,
+            "sum_over_packing_bound": 0.0001773,
+            "forced_vertex": 5.1e-05,
+            "costly_discard_packing_update": 0.0001716,
+            "costly_discard_packing_from_scratch": 0.0023863,
+            "vertex_domination": 0.0012399,
+            "edge_domination": 0.0001305,
+            "applying_reductions": 3.75e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 10,
+        "execution_time": 0.2034778594970703,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0003252
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0060995
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062243,
+            "greedy": 0.0009054,
+            "max_degree_bound": 2.28e-05,
+            "sum_degree_bound": 8.08e-05,
+            "efficiency_bound": 0.0001022,
+            "packing_bound": 0.0009515,
+            "sum_over_packing_bound": 0.0001606,
+            "forced_vertex": 4.69e-05,
+            "costly_discard_packing_update": 0.0002172,
+            "costly_discard_packing_from_scratch": 0.0020924,
+            "vertex_domination": 0.0010556,
+            "edge_domination": 0.0001188,
+            "applying_reductions": 3.33e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 11,
+        "execution_time": 0.20462250709533691,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002585
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0071418
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.007267,
+            "greedy": 0.0008861,
+            "max_degree_bound": 2.39e-05,
+            "sum_degree_bound": 8.67e-05,
+            "efficiency_bound": 0.0001052,
+            "packing_bound": 0.0011088,
+            "sum_over_packing_bound": 0.0001696,
+            "forced_vertex": 5e-05,
+            "costly_discard_packing_update": 0.0001781,
+            "costly_discard_packing_from_scratch": 0.0025618,
+            "vertex_domination": 0.0014111,
+            "edge_domination": 0.0001808,
+            "applying_reductions": 3.5e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 12,
+        "execution_time": 0.205582857131958,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002445
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0061314
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.006262,
+            "greedy": 0.000937,
+            "max_degree_bound": 2.27e-05,
+            "sum_degree_bound": 7.97e-05,
+            "efficiency_bound": 0.0001022,
+            "packing_bound": 0.0009567,
+            "sum_over_packing_bound": 0.0001501,
+            "forced_vertex": 4.68e-05,
+            "costly_discard_packing_update": 0.0001748,
+            "costly_discard_packing_from_scratch": 0.0022144,
+            "vertex_domination": 0.001058,
+            "edge_domination": 0.0001141,
+            "applying_reductions": 3.24e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 13,
+        "execution_time": 0.20406436920166016,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002299
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0058661
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0059819,
+            "greedy": 0.0007049,
+            "max_degree_bound": 2.16e-05,
+            "sum_degree_bound": 7.78e-05,
+            "efficiency_bound": 0.0001016,
+            "packing_bound": 0.000981,
+            "sum_over_packing_bound": 0.0001476,
+            "forced_vertex": 4.64e-05,
+            "costly_discard_packing_update": 0.0001706,
+            "costly_discard_packing_from_scratch": 0.0021965,
+            "vertex_domination": 0.0010582,
+            "edge_domination": 0.0001343,
+            "applying_reductions": 3.29e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 14,
+        "execution_time": 0.20687389373779297,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002343
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0059555
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0060834,
+            "greedy": 0.0006985,
+            "max_degree_bound": 2.23e-05,
+            "sum_degree_bound": 7.91e-05,
+            "efficiency_bound": 0.0001022,
+            "packing_bound": 0.0010019,
+            "sum_over_packing_bound": 0.0001499,
+            "forced_vertex": 4.79e-05,
+            "costly_discard_packing_update": 0.0001695,
+            "costly_discard_packing_from_scratch": 0.0021591,
+            "vertex_domination": 0.0010812,
+            "edge_domination": 0.0001274,
+            "applying_reductions": 3.42e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 15,
+        "execution_time": 0.20295286178588867,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002669
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.006097
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062255,
+            "greedy": 0.0007209,
+            "max_degree_bound": 2.17e-05,
+            "sum_degree_bound": 8.85e-05,
+            "efficiency_bound": 0.0001107,
+            "packing_bound": 0.0009898,
+            "sum_over_packing_bound": 0.0001536,
+            "forced_vertex": 5.03e-05,
+            "costly_discard_packing_update": 0.0001676,
+            "costly_discard_packing_from_scratch": 0.0022294,
+            "vertex_domination": 0.0010966,
+            "edge_domination": 0.0001299,
+            "applying_reductions": 3.33e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 16,
+        "execution_time": 0.20541048049926758,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0003544
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0061954
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0063297,
+            "greedy": 0.0007968,
+            "max_degree_bound": 2.2e-05,
+            "sum_degree_bound": 7.86e-05,
+            "efficiency_bound": 0.0001102,
+            "packing_bound": 0.001005,
+            "sum_over_packing_bound": 0.00015,
+            "forced_vertex": 4.96e-05,
+            "costly_discard_packing_update": 0.000219,
+            "costly_discard_packing_from_scratch": 0.0021893,
+            "vertex_domination": 0.0010613,
+            "edge_domination": 0.0001127,
+            "applying_reductions": 3.3e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 17,
+        "execution_time": 0.20463132858276367,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002494
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0067726
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0068966,
+            "greedy": 0.0010739,
+            "max_degree_bound": 2.35e-05,
+            "sum_degree_bound": 9.09e-05,
+            "efficiency_bound": 0.0001136,
+            "packing_bound": 0.0010796,
+            "sum_over_packing_bound": 0.0001518,
+            "forced_vertex": 4.85e-05,
+            "costly_discard_packing_update": 0.0002254,
+            "costly_discard_packing_from_scratch": 0.002296,
+            "vertex_domination": 0.0011319,
+            "edge_domination": 0.0001624,
+            "applying_reductions": 3.38e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 18,
+        "execution_time": 0.20713543891906738,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002308
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0059866
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0061106,
+            "greedy": 0.0007535,
+            "max_degree_bound": 2.14e-05,
+            "sum_degree_bound": 7.81e-05,
+            "efficiency_bound": 0.0001021,
+            "packing_bound": 0.0009494,
+            "sum_over_packing_bound": 0.0001465,
+            "forced_vertex": 4.56e-05,
+            "costly_discard_packing_update": 0.0001702,
+            "costly_discard_packing_from_scratch": 0.0021937,
+            "vertex_domination": 0.0010558,
+            "edge_domination": 0.0001347,
+            "applying_reductions": 3.3e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 19,
+        "execution_time": 0.20676445960998535,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002311
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0058964
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0060179,
+            "greedy": 0.0007801,
+            "max_degree_bound": 2.15e-05,
+            "sum_degree_bound": 7.9e-05,
+            "efficiency_bound": 0.0001024,
+            "packing_bound": 0.0009113,
+            "sum_over_packing_bound": 0.0001544,
+            "forced_vertex": 4.63e-05,
+            "costly_discard_packing_update": 0.0001638,
+            "costly_discard_packing_from_scratch": 0.0021592,
+            "vertex_domination": 0.0010473,
+            "edge_domination": 0.0001195,
+            "applying_reductions": 3.32e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 20,
+        "execution_time": 0.2424612045288086,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002709
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0060766
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0061973,
+            "greedy": 0.0007568,
+            "max_degree_bound": 2.25e-05,
+            "sum_degree_bound": 7.93e-05,
+            "efficiency_bound": 0.0001028,
+            "packing_bound": 0.0009726,
+            "sum_over_packing_bound": 0.0001647,
+            "forced_vertex": 4.81e-05,
+            "costly_discard_packing_update": 0.0001761,
+            "costly_discard_packing_from_scratch": 0.0022094,
+            "vertex_domination": 0.0010828,
+            "edge_domination": 0.0001504,
+            "applying_reductions": 4.54e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 21,
+        "execution_time": 0.20450043678283691,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0003017
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.005989
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0061098,
+            "greedy": 0.0007282,
+            "max_degree_bound": 2.2e-05,
+            "sum_degree_bound": 7.93e-05,
+            "efficiency_bound": 0.0001116,
+            "packing_bound": 0.0010124,
+            "sum_over_packing_bound": 0.0001627,
+            "forced_vertex": 5.05e-05,
+            "costly_discard_packing_update": 0.0001777,
+            "costly_discard_packing_from_scratch": 0.0021781,
+            "vertex_domination": 0.0010651,
+            "edge_domination": 0.0001294,
+            "applying_reductions": 3.36e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 22,
+        "execution_time": 0.20337486267089844,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002583
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0067831
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0069103,
+            "greedy": 0.0008612,
+            "max_degree_bound": 2.37e-05,
+            "sum_degree_bound": 9.65e-05,
+            "efficiency_bound": 0.0001063,
+            "packing_bound": 0.0010013,
+            "sum_over_packing_bound": 0.0001523,
+            "forced_vertex": 4.89e-05,
+            "costly_discard_packing_update": 0.0001706,
+            "costly_discard_packing_from_scratch": 0.0023322,
+            "vertex_domination": 0.0014865,
+            "edge_domination": 0.0001893,
+            "applying_reductions": 3.5e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 23,
+        "execution_time": 0.2022719383239746,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002428
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0064435
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0065817,
+            "greedy": 0.000847,
+            "max_degree_bound": 2.2e-05,
+            "sum_degree_bound": 8.88e-05,
+            "efficiency_bound": 0.0001146,
+            "packing_bound": 0.0009662,
+            "sum_over_packing_bound": 0.0001488,
+            "forced_vertex": 6.7e-05,
+            "costly_discard_packing_update": 0.0001652,
+            "costly_discard_packing_from_scratch": 0.0023466,
+            "vertex_domination": 0.0011542,
+            "edge_domination": 0.0001412,
+            "applying_reductions": 3.54e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 24,
+        "execution_time": 0.2078404426574707,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002338
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0061208
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062428,
+            "greedy": 0.000817,
+            "max_degree_bound": 2.22e-05,
+            "sum_degree_bound": 9.09e-05,
+            "efficiency_bound": 0.0001038,
+            "packing_bound": 0.0009334,
+            "sum_over_packing_bound": 0.0001545,
+            "forced_vertex": 4.72e-05,
+            "costly_discard_packing_update": 0.0001746,
+            "costly_discard_packing_from_scratch": 0.0022149,
+            "vertex_domination": 0.0010699,
+            "edge_domination": 0.0001165,
+            "applying_reductions": 3.33e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 25,
+        "execution_time": 0.20594429969787598,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002808
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0062592
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.006378,
+            "greedy": 0.000809,
+            "max_degree_bound": 2.18e-05,
+            "sum_degree_bound": 8.22e-05,
+            "efficiency_bound": 0.0001203,
+            "packing_bound": 0.0010146,
+            "sum_over_packing_bound": 0.0001529,
+            "forced_vertex": 4.93e-05,
+            "costly_discard_packing_update": 0.0001687,
+            "costly_discard_packing_from_scratch": 0.0022488,
+            "vertex_domination": 0.0011024,
+            "edge_domination": 0.0001166,
+            "applying_reductions": 3.42e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 26,
+        "execution_time": 0.20569825172424316,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002773
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0064947
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0066193,
+            "greedy": 0.0009299,
+            "max_degree_bound": 2.27e-05,
+            "sum_degree_bound": 8.96e-05,
+            "efficiency_bound": 0.0001043,
+            "packing_bound": 0.0009819,
+            "sum_over_packing_bound": 0.0001505,
+            "forced_vertex": 4.8e-05,
+            "costly_discard_packing_update": 0.0001643,
+            "costly_discard_packing_from_scratch": 0.0024753,
+            "vertex_domination": 0.0010865,
+            "edge_domination": 0.0001401,
+            "applying_reductions": 3.48e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 27,
+        "execution_time": 0.20699048042297363,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002686
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0060784
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0062035,
+            "greedy": 0.0007291,
+            "max_degree_bound": 2.21e-05,
+            "sum_degree_bound": 8.07e-05,
+            "efficiency_bound": 0.0001229,
+            "packing_bound": 0.0009682,
+            "sum_over_packing_bound": 0.0001506,
+            "forced_vertex": 4.97e-05,
+            "costly_discard_packing_update": 0.0001645,
+            "costly_discard_packing_from_scratch": 0.0022372,
+            "vertex_domination": 0.0010594,
+            "edge_domination": 0.0001305,
+            "applying_reductions": 3.31e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 28,
+        "execution_time": 0.2044219970703125,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0002614
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0062099
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0063717,
+            "greedy": 0.0008082,
+            "max_degree_bound": 2.23e-05,
+            "sum_degree_bound": 8.07e-05,
+            "efficiency_bound": 0.0001292,
+            "packing_bound": 0.0010154,
+            "sum_over_packing_bound": 0.0001522,
+            "forced_vertex": 5.11e-05,
+            "costly_discard_packing_update": 0.0001653,
+            "costly_discard_packing_from_scratch": 0.0022498,
+            "vertex_domination": 0.0011176,
+            "edge_domination": 0.0001143,
+            "applying_reductions": 4.67e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 29,
+        "execution_time": 0.2017378807067871,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0003252
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0063763
+            }
+          ],
+          "settings": {
+            "enable_local_search": true,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": true,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "AlwaysBeforeExpensiveReductions",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0064971,
+            "greedy": 0.0008301,
+            "max_degree_bound": 2.24e-05,
+            "sum_degree_bound": 8.84e-05,
+            "efficiency_bound": 0.0001043,
+            "packing_bound": 0.0010646,
+            "sum_over_packing_bound": 0.0001591,
+            "forced_vertex": 4.98e-05,
+            "costly_discard_packing_update": 0.0001717,
+            "costly_discard_packing_from_scratch": 0.0023745,
+            "vertex_domination": 0.0010733,
+            "edge_domination": 0.0001237,
+            "applying_reductions": 3.34e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 0,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 1,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 10,
+            "forced_vertex_runs": 17,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 11,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 10,
+            "costly_discard_packing_update_vertices_found": 0,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      }
+    ]
+  },
+  {
+    "configuration": {
+      "enable_local_search": false,
+      "enable_max_degree_bound": true,
+      "enable_sum_degree_bound": false,
+      "enable_efficiency_bound": true,
+      "enable_packing_bound": true,
+      "enable_sum_over_packing_bound": true,
+      "packing_from_scratch_limit": 3,
+      "greedy_mode": "Once",
+      "time_limit": 600
+    },
+    "runs": [
+      {
+        "run_number": 0,
+        "execution_time": 0.20798873901367188,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 8.98e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0035186
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0036752,
+            "greedy": 0.0003722,
+            "max_degree_bound": 1.99e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001038,
+            "packing_bound": 0.0002778,
+            "sum_over_packing_bound": 0.0001581,
+            "forced_vertex": 5.31e-05,
+            "costly_discard_packing_update": 0.0002038,
+            "costly_discard_packing_from_scratch": 0.0008113,
+            "vertex_domination": 0.0010441,
+            "edge_domination": 0.0001236,
+            "applying_reductions": 3.74e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 1,
+        "execution_time": 0.1998615264892578,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.78e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0042934
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.004488,
+            "greedy": 0.0004254,
+            "max_degree_bound": 2.41e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001178,
+            "packing_bound": 0.0003394,
+            "sum_over_packing_bound": 0.0001684,
+            "forced_vertex": 6.17e-05,
+            "costly_discard_packing_update": 0.0002382,
+            "costly_discard_packing_from_scratch": 0.0009753,
+            "vertex_domination": 0.0013428,
+            "edge_domination": 0.0001313,
+            "applying_reductions": 4.13e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 2,
+        "execution_time": 0.20144224166870117,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.93e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037287
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.003896,
+            "greedy": 0.0006385,
+            "max_degree_bound": 2.01e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001058,
+            "packing_bound": 0.0002849,
+            "sum_over_packing_bound": 0.0001592,
+            "forced_vertex": 5.56e-05,
+            "costly_discard_packing_update": 0.0001942,
+            "costly_discard_packing_from_scratch": 0.0008268,
+            "vertex_domination": 0.0010333,
+            "edge_domination": 0.0001235,
+            "applying_reductions": 3.72e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 3,
+        "execution_time": 0.20206403732299805,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 8.36e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036603
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038303,
+            "greedy": 0.0004897,
+            "max_degree_bound": 1.96e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001047,
+            "packing_bound": 0.0002686,
+            "sum_over_packing_bound": 0.0001718,
+            "forced_vertex": 5.49e-05,
+            "costly_discard_packing_update": 0.0001976,
+            "costly_discard_packing_from_scratch": 0.0008439,
+            "vertex_domination": 0.0010681,
+            "edge_domination": 0.0001242,
+            "applying_reductions": 3.73e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 4,
+        "execution_time": 0.20302724838256836,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 8.49e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036631
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038319,
+            "greedy": 0.0004652,
+            "max_degree_bound": 1.99e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001049,
+            "packing_bound": 0.0002735,
+            "sum_over_packing_bound": 0.000164,
+            "forced_vertex": 6.64e-05,
+            "costly_discard_packing_update": 0.0002072,
+            "costly_discard_packing_from_scratch": 0.000844,
+            "vertex_domination": 0.0010791,
+            "edge_domination": 0.0001242,
+            "applying_reductions": 3.79e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 5,
+        "execution_time": 0.20218586921691895,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.68e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036549
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038113,
+            "greedy": 0.0004827,
+            "max_degree_bound": 2e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001048,
+            "packing_bound": 0.0002695,
+            "sum_over_packing_bound": 0.0001585,
+            "forced_vertex": 5.46e-05,
+            "costly_discard_packing_update": 0.0001932,
+            "costly_discard_packing_from_scratch": 0.0008371,
+            "vertex_domination": 0.0010522,
+            "edge_domination": 0.0001332,
+            "applying_reductions": 3.8e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 6,
+        "execution_time": 0.20198678970336914,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 8.2e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036783
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.003847,
+            "greedy": 0.0005036,
+            "max_degree_bound": 2e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001034,
+            "packing_bound": 0.0002667,
+            "sum_over_packing_bound": 0.0001646,
+            "forced_vertex": 5.34e-05,
+            "costly_discard_packing_update": 0.0002165,
+            "costly_discard_packing_from_scratch": 0.0008354,
+            "vertex_domination": 0.001091,
+            "edge_domination": 0.0001236,
+            "applying_reductions": 3.8e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 7,
+        "execution_time": 0.19924187660217285,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.72e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036705
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038394,
+            "greedy": 0.0004564,
+            "max_degree_bound": 2.09e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001145,
+            "packing_bound": 0.0003033,
+            "sum_over_packing_bound": 0.0001582,
+            "forced_vertex": 5.63e-05,
+            "costly_discard_packing_update": 0.0002023,
+            "costly_discard_packing_from_scratch": 0.0008725,
+            "vertex_domination": 0.0010314,
+            "edge_domination": 0.0001238,
+            "applying_reductions": 3.73e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 8,
+        "execution_time": 0.19879364967346191,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.68e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036432
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038064,
+            "greedy": 0.0004339,
+            "max_degree_bound": 2.08e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001152,
+            "packing_bound": 0.0002732,
+            "sum_over_packing_bound": 0.0001607,
+            "forced_vertex": 5.4e-05,
+            "costly_discard_packing_update": 0.0002102,
+            "costly_discard_packing_from_scratch": 0.0008684,
+            "vertex_domination": 0.0011026,
+            "edge_domination": 0.0001301,
+            "applying_reductions": 4e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 9,
+        "execution_time": 0.2427518367767334,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.76e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0078153
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0083607,
+            "greedy": 0.0004195,
+            "max_degree_bound": 2.2e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001071,
+            "packing_bound": 0.0002869,
+            "sum_over_packing_bound": 0.0004456,
+            "forced_vertex": 5.82e-05,
+            "costly_discard_packing_update": 0.0002098,
+            "costly_discard_packing_from_scratch": 0.0008712,
+            "vertex_domination": 0.0010536,
+            "edge_domination": 0.0001316,
+            "applying_reductions": 3.93e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 10,
+        "execution_time": 0.19841718673706055,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 8.68e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0035475
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0037135,
+            "greedy": 0.0004302,
+            "max_degree_bound": 2.02e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001046,
+            "packing_bound": 0.0002783,
+            "sum_over_packing_bound": 0.0001689,
+            "forced_vertex": 5.57e-05,
+            "costly_discard_packing_update": 0.0001934,
+            "costly_discard_packing_from_scratch": 0.0008342,
+            "vertex_domination": 0.0010633,
+            "edge_domination": 0.0001332,
+            "applying_reductions": 4.75e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 11,
+        "execution_time": 0.19925379753112793,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.64e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037277
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038945,
+            "greedy": 0.0005346,
+            "max_degree_bound": 1.99e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.000107,
+            "packing_bound": 0.0002667,
+            "sum_over_packing_bound": 0.0001646,
+            "forced_vertex": 5.39e-05,
+            "costly_discard_packing_update": 0.0002025,
+            "costly_discard_packing_from_scratch": 0.0008565,
+            "vertex_domination": 0.0010478,
+            "edge_domination": 0.0001239,
+            "applying_reductions": 3.7e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 12,
+        "execution_time": 0.20113825798034668,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.81e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0034941
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0036618,
+            "greedy": 0.0005165,
+            "max_degree_bound": 1.97e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001037,
+            "packing_bound": 0.0002662,
+            "sum_over_packing_bound": 0.0001561,
+            "forced_vertex": 5.38e-05,
+            "costly_discard_packing_update": 0.0002066,
+            "costly_discard_packing_from_scratch": 0.0008118,
+            "vertex_domination": 0.00102,
+            "edge_domination": 0.0001228,
+            "applying_reductions": 3.68e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 13,
+        "execution_time": 0.19715380668640137,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.66e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0034387
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0035957,
+            "greedy": 0.0004117,
+            "max_degree_bound": 1.98e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001039,
+            "packing_bound": 0.0002689,
+            "sum_over_packing_bound": 0.0001593,
+            "forced_vertex": 5.18e-05,
+            "costly_discard_packing_update": 0.0001925,
+            "costly_discard_packing_from_scratch": 0.0008105,
+            "vertex_domination": 0.0010534,
+            "edge_domination": 0.0001251,
+            "applying_reductions": 3.71e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 14,
+        "execution_time": 0.20164942741394043,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.79e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0033938
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0035592,
+            "greedy": 0.0003665,
+            "max_degree_bound": 2e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001033,
+            "packing_bound": 0.0002647,
+            "sum_over_packing_bound": 0.0001553,
+            "forced_vertex": 6.01e-05,
+            "costly_discard_packing_update": 0.0001953,
+            "costly_discard_packing_from_scratch": 0.0008404,
+            "vertex_domination": 0.0010251,
+            "edge_domination": 0.0001251,
+            "applying_reductions": 3.67e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 15,
+        "execution_time": 0.19970059394836426,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.81e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0038238
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0039917,
+            "greedy": 0.0005564,
+            "max_degree_bound": 2.05e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001055,
+            "packing_bound": 0.0002733,
+            "sum_over_packing_bound": 0.0001587,
+            "forced_vertex": 5.82e-05,
+            "costly_discard_packing_update": 0.0002004,
+            "costly_discard_packing_from_scratch": 0.0008436,
+            "vertex_domination": 0.0011043,
+            "edge_domination": 0.000127,
+            "applying_reductions": 3.87e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 16,
+        "execution_time": 0.19942498207092285,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 8.07e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037606
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0042183,
+            "greedy": 0.000622,
+            "max_degree_bound": 2.83e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001168,
+            "packing_bound": 0.000319,
+            "sum_over_packing_bound": 0.0002385,
+            "forced_vertex": 5.72e-05,
+            "costly_discard_packing_update": 0.0002232,
+            "costly_discard_packing_from_scratch": 0.0008585,
+            "vertex_domination": 0.001043,
+            "edge_domination": 0.0001295,
+            "applying_reductions": 3.87e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 17,
+        "execution_time": 0.1987767219543457,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.74e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036373
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038519,
+            "greedy": 0.0004308,
+            "max_degree_bound": 2.11e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001255,
+            "packing_bound": 0.0002761,
+            "sum_over_packing_bound": 0.0001604,
+            "forced_vertex": 5.66e-05,
+            "costly_discard_packing_update": 0.0002126,
+            "costly_discard_packing_from_scratch": 0.0008376,
+            "vertex_domination": 0.001059,
+            "edge_domination": 0.0001418,
+            "applying_reductions": 4.26e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 18,
+        "execution_time": 0.19920635223388672,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.72e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036675
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038423,
+            "greedy": 0.0004615,
+            "max_degree_bound": 2.02e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001039,
+            "packing_bound": 0.0002767,
+            "sum_over_packing_bound": 0.0001575,
+            "forced_vertex": 5.52e-05,
+            "costly_discard_packing_update": 0.0002028,
+            "costly_discard_packing_from_scratch": 0.0008744,
+            "vertex_domination": 0.0010447,
+            "edge_domination": 0.0001229,
+            "applying_reductions": 3.76e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 19,
+        "execution_time": 0.19889068603515625,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.73e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036604
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038189,
+            "greedy": 0.0004655,
+            "max_degree_bound": 2.02e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001048,
+            "packing_bound": 0.0002721,
+            "sum_over_packing_bound": 0.000167,
+            "forced_vertex": 5.46e-05,
+            "costly_discard_packing_update": 0.0002055,
+            "costly_discard_packing_from_scratch": 0.0008339,
+            "vertex_domination": 0.0010589,
+            "edge_domination": 0.000133,
+            "applying_reductions": 3.78e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 20,
+        "execution_time": 0.20040607452392578,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 0.0001755
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0044206
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0045797,
+            "greedy": 0.0008199,
+            "max_degree_bound": 2.33e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0003179,
+            "packing_bound": 0.0003037,
+            "sum_over_packing_bound": 0.000168,
+            "forced_vertex": 6.41e-05,
+            "costly_discard_packing_update": 0.0002023,
+            "costly_discard_packing_from_scratch": 0.0008653,
+            "vertex_domination": 0.0011674,
+            "edge_domination": 0.0001267,
+            "applying_reductions": 4.19e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 21,
+        "execution_time": 0.1982738971710205,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.77e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037005
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038566,
+            "greedy": 0.0004574,
+            "max_degree_bound": 2.05e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001045,
+            "packing_bound": 0.000279,
+            "sum_over_packing_bound": 0.0001578,
+            "forced_vertex": 5.45e-05,
+            "costly_discard_packing_update": 0.0002073,
+            "costly_discard_packing_from_scratch": 0.0008592,
+            "vertex_domination": 0.0010897,
+            "edge_domination": 0.0001238,
+            "applying_reductions": 3.85e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 22,
+        "execution_time": 0.201033353805542,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.89e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037022
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0039063,
+            "greedy": 0.0004881,
+            "max_degree_bound": 2.01e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001053,
+            "packing_bound": 0.0002729,
+            "sum_over_packing_bound": 0.00016,
+            "forced_vertex": 5.48e-05,
+            "costly_discard_packing_update": 0.0002083,
+            "costly_discard_packing_from_scratch": 0.000821,
+            "vertex_domination": 0.0011024,
+            "edge_domination": 0.0001247,
+            "applying_reductions": 3.83e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 23,
+        "execution_time": 0.1993095874786377,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.78e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037943
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0039917,
+            "greedy": 0.0005211,
+            "max_degree_bound": 2.03e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.000119,
+            "packing_bound": 0.0002716,
+            "sum_over_packing_bound": 0.0001723,
+            "forced_vertex": 5.54e-05,
+            "costly_discard_packing_update": 0.0001987,
+            "costly_discard_packing_from_scratch": 0.0009137,
+            "vertex_domination": 0.0010661,
+            "edge_domination": 0.0001267,
+            "applying_reductions": 4.64e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 24,
+        "execution_time": 0.1986103057861328,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.65e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0042185
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0043799,
+            "greedy": 0.0004906,
+            "max_degree_bound": 2.22e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001173,
+            "packing_bound": 0.0002918,
+            "sum_over_packing_bound": 0.0001688,
+            "forced_vertex": 5.55e-05,
+            "costly_discard_packing_update": 0.0002441,
+            "costly_discard_packing_from_scratch": 0.0008543,
+            "vertex_domination": 0.0011952,
+            "edge_domination": 0.0004273,
+            "applying_reductions": 3.99e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 25,
+        "execution_time": 0.19774723052978516,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.82e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0036725
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038288,
+            "greedy": 0.0006061,
+            "max_degree_bound": 2.08e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001148,
+            "packing_bound": 0.000273,
+            "sum_over_packing_bound": 0.0001605,
+            "forced_vertex": 5.61e-05,
+            "costly_discard_packing_update": 0.0002132,
+            "costly_discard_packing_from_scratch": 0.0008237,
+            "vertex_domination": 0.0010635,
+            "edge_domination": 0.0001338,
+            "applying_reductions": 3.73e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 26,
+        "execution_time": 0.19813990592956543,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.71e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0042122
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0043696,
+            "greedy": 0.0004222,
+            "max_degree_bound": 2.27e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001098,
+            "packing_bound": 0.0002809,
+            "sum_over_packing_bound": 0.0001646,
+            "forced_vertex": 7.27e-05,
+            "costly_discard_packing_update": 0.0002036,
+            "costly_discard_packing_from_scratch": 0.0013498,
+            "vertex_domination": 0.0011266,
+            "edge_domination": 0.0001364,
+            "applying_reductions": 5.66e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 27,
+        "execution_time": 0.1983649730682373,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.78e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037423
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0038998,
+            "greedy": 0.0003514,
+            "max_degree_bound": 2.1e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.000107,
+            "packing_bound": 0.0002763,
+            "sum_over_packing_bound": 0.0001667,
+            "forced_vertex": 6.9e-05,
+            "costly_discard_packing_update": 0.0002753,
+            "costly_discard_packing_from_scratch": 0.0008659,
+            "vertex_domination": 0.0011196,
+            "edge_domination": 0.0001285,
+            "applying_reductions": 3.88e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 28,
+        "execution_time": 0.20099782943725586,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 9.57e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.0037239
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0039082,
+            "greedy": 0.0005588,
+            "max_degree_bound": 2.02e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001061,
+            "packing_bound": 0.0002706,
+            "sum_over_packing_bound": 0.0001583,
+            "forced_vertex": 5.39e-05,
+            "costly_discard_packing_update": 0.000195,
+            "costly_discard_packing_from_scratch": 0.0008252,
+            "vertex_domination": 0.0011044,
+            "edge_domination": 0.0001244,
+            "applying_reductions": 3.82e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      },
+      {
+        "run_number": 29,
+        "execution_time": 0.2301180362701416,
+        "solution": [
+          23,
+          12,
+          28,
+          25,
+          14,
+          29,
+          26,
+          8,
+          3
+        ],
+        "report": {
+          "file_name": "bremen_subgraph_20.hgr",
+          "opt": 9,
+          "branching_steps": 1,
+          "upper_bound_improvements": [
+            {
+              "new_bound": 10,
+              "branching_steps": 0,
+              "runtime": 7.66e-05
+            },
+            {
+              "new_bound": 9,
+              "branching_steps": 1,
+              "runtime": 0.003812
+            }
+          ],
+          "settings": {
+            "enable_local_search": false,
+            "enable_max_degree_bound": true,
+            "enable_sum_degree_bound": false,
+            "enable_efficiency_bound": true,
+            "enable_packing_bound": true,
+            "enable_sum_over_packing_bound": true,
+            "packing_from_scratch_limit": 3,
+            "greedy_mode": "Once",
+            "time_limit": 600,
+            "initial_hitting_set": null,
+            "stop_at": 0
+          },
+          "root_bounds": {
+            "max_degree": 5,
+            "sum_degree": 6,
+            "efficiency": 7,
+            "packing": 8,
+            "sum_over_packing": 8,
+            "greedy_upper": 10
+          },
+          "runtimes": {
+            "total": 0.0039825,
+            "greedy": 0.0005367,
+            "max_degree_bound": 2.09e-05,
+            "sum_degree_bound": 0.0,
+            "efficiency_bound": 0.0001162,
+            "packing_bound": 0.0002865,
+            "sum_over_packing_bound": 0.0001676,
+            "forced_vertex": 5.71e-05,
+            "costly_discard_packing_update": 0.0001975,
+            "costly_discard_packing_from_scratch": 0.0008703,
+            "vertex_domination": 0.001082,
+            "edge_domination": 0.0001356,
+            "applying_reductions": 3.91e-05
+          },
+          "reductions": {
+            "max_degree_bound_breaks": 1,
+            "sum_degree_bound_breaks": 0,
+            "efficiency_degree_bound_breaks": 0,
+            "packing_bound_breaks": 0,
+            "sum_over_packing_bound_breaks": 0,
+            "greedy_runs": 3,
+            "forced_vertex_runs": 18,
+            "forced_vertices_found": 7,
+            "costly_discard_efficiency_runs": 12,
+            "costly_discard_efficiency_vertices_found": 1,
+            "costly_discard_packing_update_runs": 11,
+            "costly_discard_packing_update_vertices_found": 3,
+            "costly_discard_packing_from_scratch_runs": 10,
+            "costly_discard_packing_from_scratch_steps_per_run": [
+              0,
+              0,
+              0,
+              10
+            ],
+            "vertex_dominations_runs": 10,
+            "vertex_dominations_vertices_found": 20,
+            "edge_dominations_runs": 2,
+            "edge_dominations_edges_found": 3
+          }
+        }
+      }
+    ]
+  }
+]
